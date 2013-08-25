@@ -38,6 +38,7 @@ github "xquartz",    "1.1.0"
 # https://github.com/boxen.
 github "osx",        "1.6.0"
 github "kindle",     "1.0.1"
+github "java",       "1.1.0"
 github "iterm2",     "1.0.3"
 github "imagemagick", "1.2.1"
 github "phantomjs",  "2.0.2"
