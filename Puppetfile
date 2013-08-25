@@ -38,3 +38,4 @@ github "xquartz",    "1.1.0"
 # https://github.com/boxen.
 github "kindle",     "1.0.1"
 github "iterm2",     "1.0.3"
+github "imagemagick", "1.2.1"
