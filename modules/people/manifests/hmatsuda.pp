@@ -10,4 +10,12 @@ class people::hmatsuda {
 
   #CUI application
   include pow
+
+  #homebrew packages
+  package {
+    [
+     'mecab',
+     'mecab-ipadic'
+     ]:
+  }
 }
