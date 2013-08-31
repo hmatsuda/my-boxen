@@ -2,9 +2,12 @@ class people::hmatsuda {
   #project
   include projects::real
 
-  #includes
+  #GUI application
   include kindle
   include iterm2::dev
   class { "osx::dock::icon_size":  size => 36 }
   class { "osx::dock::autohide": }
+
+  #CUI application
+  include pow
 }
