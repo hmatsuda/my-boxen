@@ -67,4 +67,5 @@ github "pow",        "1.0.0"
 github "keyremap4macbook", "1.0.4"
 github "beanstalk",  "1.0.0"
 github "googledrive", "1.0.2"
+github "github_for_mac", "1.0.1"
 

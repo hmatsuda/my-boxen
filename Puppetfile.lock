@@ -59,6 +59,11 @@ GITHUBTARBALL
     git (1.2.5)
 
 GITHUBTARBALL
+  remote: boxen/puppet-github_for_mac
+  specs:
+    github_for_mac (1.0.1)
+
+GITHUBTARBALL
   remote: boxen/puppet-go
   specs:
     go (1.0.0)
@@ -246,6 +251,7 @@ DEPENDENCIES
   foreman (= 1.0.0)
   gcc (= 2.0.1)
   git (= 1.2.5)
+  github_for_mac (= 1.0.1)
   go (= 1.0.0)
   googledrive (= 1.0.2)
   heroku (= 2.0.0)
