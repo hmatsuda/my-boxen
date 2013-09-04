@@ -16,7 +16,9 @@ class people::hmatsuda {
     [
      'mecab',
      'mecab-ipadic',
-     'lha'
+     'lha',
+     'plenv',
+     'perl-build',
      ]:
   }
 }
