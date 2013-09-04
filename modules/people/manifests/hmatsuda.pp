@@ -15,7 +15,8 @@ class people::hmatsuda {
   package {
     [
      'mecab',
-     'mecab-ipadic'
+     'mecab-ipadic',
+     'lha'
      ]:
   }
 }
