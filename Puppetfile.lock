@@ -169,6 +169,11 @@ GITHUBTARBALL
     php (1.1.1)
 
 GITHUBTARBALL
+  remote: boxen/puppet-postgresql
+  specs:
+    postgresql (2.0.1)
+
+GITHUBTARBALL
   remote: boxen/puppet-pow
   specs:
     pow (1.0.0)
@@ -212,6 +217,11 @@ GITHUBTARBALL
   remote: boxen/puppet-sudo
   specs:
     sudo (1.0.0)
+
+GITHUBTARBALL
+  remote: boxen/puppet-sysctl
+  specs:
+    sysctl (1.0.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-vagrant
@@ -279,6 +289,7 @@ DEPENDENCIES
   osxfuse (= 1.1.0)
   phantomjs (= 2.0.2)
   php (= 1.1.1)
+  postgresql (= 2.0.1)
   pow (= 1.0.0)
   python (= 1.1.1)
   repository (= 2.2.0)
@@ -289,6 +300,7 @@ DEPENDENCIES
   sourcetree (= 0.0.4)
   stdlib (= 4.1.0)
   sudo (= 1.0.0)
+  sysctl (= 1.0.0)
   vagrant (= 2.0.10)
   virtualbox (= 1.0.5)
   xquartz (= 1.1.0)

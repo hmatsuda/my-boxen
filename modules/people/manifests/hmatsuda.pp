@@ -10,6 +10,7 @@ class people::hmatsuda {
 
   #CUI application
   include pow
+  include postgresql
 
   #homebrew packages
   package {
