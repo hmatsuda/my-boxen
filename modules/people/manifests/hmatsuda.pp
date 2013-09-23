@@ -12,6 +12,7 @@ class people::hmatsuda {
   include pow
   include postgresql
   include mongodb
+  include redis
 
   #homebrew packages
   package {
