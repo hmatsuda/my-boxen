@@ -11,6 +11,7 @@ class people::hmatsuda {
   #CUI application
   include pow
   include postgresql
+  include mongodb
 
   #homebrew packages
   package {
