@@ -72,4 +72,5 @@ github "python", "1.1.1"
 github "postgresql", "2.0.1"
 github "sysctl", "1.0.0"
 github "redis", "1.0.0"
+github "beanstalk", "1.0.0"
 
