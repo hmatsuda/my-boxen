@@ -4,4 +4,5 @@ class projects::real {
   include github_for_mac
   include mysql
   include python
+  include memcached
 }
