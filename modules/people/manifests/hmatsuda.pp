@@ -13,6 +13,7 @@ class people::hmatsuda {
   include postgresql
   include mongodb
   include redis
+  include beanstalk
 
   #homebrew packages
   package {
