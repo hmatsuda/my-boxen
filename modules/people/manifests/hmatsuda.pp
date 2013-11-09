@@ -17,6 +17,7 @@ class people::hmatsuda {
   include screen
   # include go
   # go::version { '1.1.1': }
+  include packer
 
   # Set the global default ruby (auto-installs it if it can)
   class { 'ruby::global':

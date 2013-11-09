@@ -154,6 +154,11 @@ GITHUBTARBALL
     osxfuse (1.1.0)
 
 GITHUBTARBALL
+  remote: boxen/puppet-packer
+  specs:
+    packer (1.1.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-phantomjs
   specs:
     phantomjs (2.0.2)
@@ -293,6 +298,7 @@ DEPENDENCIES
   opera (= 0.1.0)
   osx (= 1.6.0)
   osxfuse (= 1.1.0)
+  packer (= 1.1.0)
   phantomjs (= 2.0.2)
   phantomjs (= 2.0.2)
   php (= 1.1.1)

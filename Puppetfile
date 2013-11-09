@@ -92,4 +92,5 @@ github "sysctl", "1.0.0"
 github "redis", "1.0.0"
 github "beanstalk", "1.0.0"
 github "android", "1.0.0"
+github "packer", "1.1.0"
 
