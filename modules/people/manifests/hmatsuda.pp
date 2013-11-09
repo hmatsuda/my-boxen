@@ -15,6 +15,8 @@ class people::hmatsuda {
   include redis
   include beanstalk
   include screen
+  # include go
+  # go::version { '1.1.1': }
 
   #homebrew packages
   package {
