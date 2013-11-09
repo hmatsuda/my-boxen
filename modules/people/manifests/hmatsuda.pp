@@ -14,6 +14,7 @@ class people::hmatsuda {
   include mongodb
   include redis
   include beanstalk
+  include screen
 
   #homebrew packages
   package {
