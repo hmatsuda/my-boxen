@@ -31,6 +31,7 @@ class people::hmatsuda {
      'lha',
      'plenv',
      'perl-build',
+     'ffmpeg',
      ]:
   }
 }
