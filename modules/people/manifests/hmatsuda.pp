@@ -34,6 +34,7 @@ class people::hmatsuda {
      'plenv',
      'perl-build',
      'ffmpeg',
+     'git-flow',
      ]:
   }
 }
