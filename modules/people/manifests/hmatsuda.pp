@@ -36,6 +36,7 @@ class people::hmatsuda {
      'ffmpeg',
      'git-flow',
      'lv',
+     'colordiff',
      ]:
   }
 }
