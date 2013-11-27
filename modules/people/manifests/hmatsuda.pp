@@ -38,6 +38,7 @@ class people::hmatsuda {
      'lv',
      'colordiff',
      'wget',
+     'tree',
      ]:
   }
 }
