@@ -37,6 +37,7 @@ class people::hmatsuda {
      'git-flow',
      'lv',
      'colordiff',
+     'wget',
      ]:
   }
 }
