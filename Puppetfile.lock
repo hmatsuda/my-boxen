@@ -84,11 +84,6 @@ GITHUBTARBALL
     hub (1.0.3)
 
 GITHUBTARBALL
-  remote: boxen/puppet-imagemagick
-  specs:
-    imagemagick (1.2.1)
-
-GITHUBTARBALL
   remote: boxen/puppet-iterm2
   specs:
     iterm2 (1.0.3)
@@ -252,6 +247,11 @@ GITHUBTARBALL
   remote: boxen/puppet-zsh
   specs:
     zsh (1.0.0)
+
+GITHUBTARBALL
+  remote: hmatsuda/puppet-imagemagick
+  specs:
+    imagemagick (1.2.1)
 
 GITHUBTARBALL
   remote: puppetlabs/puppetlabs-inifile

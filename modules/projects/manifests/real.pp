@@ -5,4 +5,11 @@ class projects::real {
   include mysql
   include python
   include memcached
+
+  #homebrew packages
+  package {
+    [
+     'libtiff',
+     ]:
+  }
 }
