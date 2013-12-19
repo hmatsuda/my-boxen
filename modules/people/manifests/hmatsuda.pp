@@ -13,7 +13,6 @@ class people::hmatsuda {
   include pow
   include postgresql
   include mongodb
-  include redis
   include beanstalk
   include screen
   # include go
