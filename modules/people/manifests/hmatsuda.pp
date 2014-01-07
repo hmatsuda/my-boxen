@@ -10,6 +10,7 @@ class people::hmatsuda {
   include vagrant
 
   #CUI application
+  include zsh
   include pow
   include postgresql
   include mongodb
