@@ -39,7 +39,8 @@ class people::hmatsuda {
      'colordiff',
      'wget',
      'tree',
-     'jq'
+     'jq',
+     's3cmd',
      ]:
   }
 }
