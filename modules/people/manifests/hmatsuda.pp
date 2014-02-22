@@ -10,10 +10,10 @@ class people::hmatsuda {
   include vagrant
 
   #CUI application
+  include zsh
   include pow
   include postgresql
   include mongodb
-  include redis
   include beanstalk
   include screen
   # include go
@@ -40,6 +40,8 @@ class people::hmatsuda {
      'wget',
      'tree',
      'http_load',
+     'jq',
+     's3cmd',
      ]:
   }
 }

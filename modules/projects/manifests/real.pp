@@ -5,6 +5,7 @@ class projects::real {
   include mysql
   include python
   include memcached
+  include redis
 
   #homebrew packages
   package {
