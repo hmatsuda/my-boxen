@@ -39,6 +39,7 @@ class people::hmatsuda {
      'colordiff',
      'wget',
      'tree',
+     'http_load',
      ]:
   }
 }
