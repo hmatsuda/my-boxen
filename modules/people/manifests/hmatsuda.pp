@@ -42,6 +42,7 @@ class people::hmatsuda {
      'http_load',
      'jq',
      's3cmd',
+     'nkf',
      ]:
   }
 }
