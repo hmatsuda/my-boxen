@@ -43,6 +43,7 @@ class people::hmatsuda {
      'jq',
      's3cmd',
      'nkf',
+     'ctags'
      ]:
   }
 }
