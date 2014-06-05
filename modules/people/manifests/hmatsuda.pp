@@ -45,6 +45,7 @@ class people::hmatsuda {
      'nkf',
      'ctags',
      'tig',
+     "https://raw.githubusercontent.com/sorah/envchain/master/brew/envchain.rb"
      ]:
   }
 }
